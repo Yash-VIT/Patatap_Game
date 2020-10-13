@@ -1,0 +1,1 @@
+var myPoint = new Point()
